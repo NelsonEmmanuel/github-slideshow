@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
-¡Tu texto 
+This is a Text of test
 usa la flecha izquierda para volver!
